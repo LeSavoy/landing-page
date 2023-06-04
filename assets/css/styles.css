@@ -125,7 +125,7 @@ body {
 
 /* ============= MOBILE ============= */
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 420px) {
   body {
     background: linear-gradient(135deg, #ffffff, #e8c6ff8e);
   }
